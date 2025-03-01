@@ -21,7 +21,35 @@ Improved resource allocation- careful cost control allows for better allocation 
 Reduced financial risk- preventing budget overruns minizes the risk of financial losses and ensures the project's financial stability
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile methodology is an iterative and incremental approach to project management and software development while waterfall methodolgy is a linear and sequential approach.
+ADVANTAGES OF AGILE METHOLOGY
+Quick response to changes.
+Regular customer feedback.
+Improved team collaboration.
+DISADVANTAGES
+Less predictability.
+Requires significant customer involvement.
+ADVANTAGES OF WATERFALL METHODOLOGY
+Clear structure and documentation.
+Easy to manage due to its rigidity.
+DISAVANTAGES
+difficult to accomadate changes.
+testing occurs late in the process.
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+AGILE
+projects with unclear or evolving requirements.
+software development with frequent updates 
+creative projects where experimentation is the key.
+projects where customer feedback is essential
+EXAMPLES-developing a new mobile app, website redesign,software development for online services
+WATERFALL
+projects with fixed requirements and strict deadlines
+large scale construction projects.
+manufacturing processes.
+projects with strict reglatory complience
+examples- building a bridge, developing a pharmaceutical drug.
+large scale software systems for government use.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
