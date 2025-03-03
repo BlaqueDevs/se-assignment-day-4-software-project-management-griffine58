@@ -99,8 +99,35 @@ resource allocation
 communication tool
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+information access and processing.
+language understanding and generation.
+automation and efficiency.
+knowledge sythensis and creation.
+accessibility.
+WHY PROBLEMS ARE SIGNIFICANT
+for individuals- these capabilites save time and effort, improve communication and enhance learning.
+for business- increase productivity, streamline workflows and improve customer service.
+for researchers and developers- accelrate research,facilitate data analysis and assist in code development.
+for everyone- increases accessiblity to information and decreasing language carriers creates more equitable distribution of knowledge.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+ensures alignment and focus.
+facilitates effective design and development.
+improves user satisfaction
+reduces costs and risk.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+a smart problem solver
+an accessibility tool.
+a fast researcher and summarizer.
 ## 11. What are the main features or functionalities that make your software stand out?
+boosts creativity by generating images or composing songs.
+learning something new
 ## 12. What data is available regarding the market size and growth potential for your software?
+regional trends 
+deployment
+applications
 ## 13. How can understanding market trends inform your software’s positioning and development?
+focusing on demand
+addressing comptitive landscape
+adapting to industry specific needs.
+
